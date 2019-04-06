@@ -9,8 +9,8 @@ from fastai import *
 from fastai.vision import *
 
 # export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
-export_file_url = 'https://www.dropbox.com/s/3ms7zckws46qzid/export.pkl?dl=1'
-export_file_name = 'export.pkl'
+export_file_url = 'https://www.dropbox.com/s/3ms7zckws46qzid/tennissoccer.pkl?dl=1'
+export_file_name = 'tennissoccer.pkl'
 
 classes = ['tennis', 'soccer']
 path = Path(__file__).parent
